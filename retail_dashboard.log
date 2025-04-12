@@ -1,0 +1,6 @@
+2025-03-24 11:42:49,538 - INFO - Retail Dashboard Started
+2025-03-24 11:42:49,550 - INFO - Connected to Google BigQuery
+2025-03-24 11:42:52,948 - INFO - Data fetched successfully. Rows: 20607
+2025-03-24 11:42:59,487 - INFO - Retail Dashboard Started
+2025-03-24 11:42:59,494 - INFO - Connected to Google BigQuery
+2025-03-24 11:42:59,503 - ERROR - Fake Store Data Load Failed: [Errno 2] No such file or directory: 'fake_store_data.csv'
